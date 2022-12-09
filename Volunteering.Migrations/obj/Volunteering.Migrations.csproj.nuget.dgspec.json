@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nuria.italiani\\Downloads\\Volunteering (1)\\Volunteering\\Volunteering.Migrations\\Volunteering.Migrations.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nuria.italiani\\Downloads\\Volunteering (1)\\Volunteering\\Volunteering.Migrations\\Volunteering.Migrations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nuria.italiani\\Downloads\\Volunteering (1)\\Volunteering\\Volunteering.Migrations\\Volunteering.Migrations.csproj",
+        "projectName": "Volunteering.Migrations",
+        "projectPath": "C:\\Users\\nuria.italiani\\Downloads\\Volunteering (1)\\Volunteering\\Volunteering.Migrations\\Volunteering.Migrations.csproj",
+        "packagesPath": "C:\\Users\\nuria.italiani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nuria.italiani\\Downloads\\Volunteering (1)\\Volunteering\\Volunteering.Migrations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nuria.italiani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://development:8080/tfs/CommonCollection/_packaging/Niup/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

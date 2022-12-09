@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Volunteering.API</name>
+    </assembly>
+    <members>
+        <member name="M:Volunteering.API.Controllers.ActivityController.DeleteActivity(System.Guid)">
+            <summary>
+            Deletes an ActivityHeader
+            </summary>
+            <param name="activityId">ActivityHeader identifier</param>
+            <reponse code = "204">ActivityHeader deleted. There's no content to return</reponse>
+            <response code = "400">Execution result with error</response>
+            <response code = "404">The activity doesn't exist</response>
+            <response code = "500">Unexpected problems. Please contact suport team</response>
+        </member>
+        <member name="M:Volunteering.API.Controllers.ActivityController.CreateOrUpdateActivity(Volunteering.Framework.BusinessService.Models.ActivityClassWriteModel)">
+            <summary>
+            Creates or updates an activity
+            </summary>
+            <param name="activity"></param>
+            <response code = "201">Returns the created activity</response>
+            <response code = "202">Returns the updated activity</response>
+            <response code = "400">Execution result with error</response>
+            <response code = "500">Unexpected problems. Please contact support team</response>
+        </member>
+        <member name="M:Volunteering.API.Controllers.ActivityController.GetActivity(System.Guid)">
+            <summary>
+            Get an activity by a given identifier
+            </summary>
+            <param name="activityId">ActivityHeader identifier</param>
+            <response code ="200">Returns the activity</response>
+            <response code="400">Execution resul with error</response>
+            <response code="404">The activity doesn't exist</response>
+            <response code="500">Unexpected problems. Please contact support team</response>
+        </member>
+        <member name="M:Volunteering.API.Controllers.ActivityController.GetActivities(Volunteering.Framework.Dataservices.Filters.ActivityFilters)">
+            <summary>
+            Get a list of activities
+            Filters may be applied
+            </summary>
+            <param name="filters">ActivityHeader filters</param>
+            <response code = "200">Returns the list of activities</response>
+            <response code = "400">Execution result with error</response>
+            <response code = "500">Unexpected problems. Please contact support team</response>
+        </member>
+        <member name="M:Volunteering.API.Controllers.ScheduleController.DeleteSchedule(System.Guid)">
+            <summary>
+            Deletes a schedule
+            </summary>
+            <param name="scheduleId">ScheduleHeader identifier</param>
+            <response code = "204">ScheduleHeader deleted. There's no content to return</response>
+            <response code = "400">Execution result with error</response>
+            <response code = "404">The schedule doesn't exist</response>
+            <response code = "500">Unexpected problems. Please contact support team</response>
+        </member>
+        <member name="M:Volunteering.API.Controllers.ScheduleController.GetSchedule(System.Guid)">
+            <summary>
+            Get a schedule by a given identifier
+            </summary>
+            <param name="scheduleId">ScheduleHeader identifier</param>
+            <response code = "200">Returns the schedule</response>
+            <response code = "400">Execution result with error</response>
+            <response code = "404">The schedule doesn't exist</response>
+            <response code = "500">Unexpected problems. Please contact support team</response>
+        </member>
+        <member name="M:Volunteering.API.Controllers.ScheduleController.GetSchedules(Volunteering.Framework.Dataservices.Filters.ScheduleFilters)">
+            <summary>
+            Get a list of schedules
+            Filters may be applied
+            </summary>
+            <param name="filters">ScheduleHeader filters</param>
+            <response code = "200">Returns the list of students</response>
+            <response code = "400">Execution result with error</response>
+            <response code = "401">Unauthorized</response>
+            <response code = "500">Unexpected problems. Please contact support team</response>
+        </member>
+        <member name="M:Volunteering.API.Controllers.ScheduleController.CreateOrUpdateSchedule(Volunteering.Framework.BusinessService.Models.ScheduleWriteModel)">
+            <summary>
+            Creates or updates a schedule
+            </summary>
+            <param name="schedule">ScheduleHeader tobe created or updated</param>
+            <response code = "201">Returns the created schedule</response>
+            <response code = "202">Returns the updated schedule</response>
+            <response code = "400">Execution result with error</response>
+            <response code = "500">Unexpected problems. Please contact support team</response>
+        </member>
+        <member name="M:Volunteering.API.Controllers.UserController.DeleteUser(System.Guid)">
+            <summary>
+            Deletes a UserHeader
+            </summary>
+            <param name="userId">UserHeader identifier</param>
+            <reponse code = "204">UserHeader deleted. There's no content to return</reponse>
+            <response code = "400">Execution result with error</response>
+            <response code = "404">The user doesn't exist</response>
+            <response code = "500">Unexpected problems. Please contact suport team</response>
+        </member>
+        <member name="M:Volunteering.API.Controllers.UserController.CreateOrUpdateUser(Volunteering.Framework.BusinessService.Models.UserWriteModel)">
+            <summary>
+            Creates or updates a user
+            </summary>
+            <param name="user"></param>
+            <response code = "201">Returns the created user</response>
+            <response code = "202">Returns the updated user</response>
+            <response code = "400">Execution result with error</response>
+            <response code = "500">Unexpected problems. Please contact support team</response>
+        </member>
+        <member name="M:Volunteering.API.Controllers.UserController.GetUser(System.Guid)">
+            <summary>
+            Get a user by a given identifier
+            </summary>
+            <param name="userId">UserHeader identifier</param>
+            <response code ="200">Returns the user</response>
+            <response code="400">Execution resul with error</response>
+            <response code="404">The user doesn't exist</response>
+            <response code="500">Unexpected problems. Please contact support team</response>
+        </member>
+        <member name="M:Volunteering.API.Controllers.UserController.GetUsers(Volunteering.Framework.Dataservices.Filters.UserFilters)">
+            <summary>
+            Get a list of users
+            Filters may be applied
+            </summary>
+            <param name="filters">UserHeader filters</param>
+            <response code = "200">Returns the list of users</response>
+            <response code = "400">Execution result with error</response>
+            <response code = "500">Unexpected problems. Please contact support team</response>
+        </member>
+        <member name="T:Volunteering.API.Miscellaneous.Helpers.DependencyInjectionHelpers">
+            <summary>
+            Dependency injection helpers
+            </summary>
+        </member>
+        <member name="M:Volunteering.API.Miscellaneous.Helpers.DependencyInjectionHelpers.ConfigureDI(Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configure dependency injection
+            </summary>
+            <param name="configuration">Configuration</param>
+            <param name="services">Service collection</param>
+            <returns>The <see cref="T:ResultCommunication.ExecutionResult"/></returns>
+        </member>
+        <member name="M:Volunteering.API.Miscellaneous.Helpers.DependencyInjectionHelpers.ConfigureDataService(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Dataservice API configuration
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Volunteering.API.Miscellaneous.Helpers.DependencyInjectionHelpers.GetWebApiConfigurations(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Get the web api configurations
+            </summary>
+            <param name="configuration">Configuration</param>
+            <returns>The <see cref="T:Volunteering.API.Miscellaneous.Models.WebApiConfigurations"/></returns>
+        </member>
+        <member name="T:Volunteering.API.Miscellaneous.Models.WebApiConfigurations">
+            <summary>
+            WebApi configurations
+            </summary>
+        </member>
+        <member name="P:Volunteering.API.Miscellaneous.Models.WebApiConfigurations.DatabaseSettings">
+            <summary>
+            Database settings
+            </summary>
+        </member>
+        <member name="T:Volunteering.API.Miscellaneous.Models.DatabaseSettings">
+            <summary>
+            Database settings
+            </summary>
+        </member>
+        <member name="P:Volunteering.API.Miscellaneous.Models.DatabaseSettings.ConnectionString">
+            <summary>
+            Connection string.
+            </summary>
+        </member>
+    </members>
+</doc>

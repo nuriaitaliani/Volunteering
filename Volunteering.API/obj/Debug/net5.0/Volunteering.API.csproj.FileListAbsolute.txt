@@ -1,0 +1,180 @@
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.exe
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.deps.json
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.runtimeconfig.json
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.runtimeconfig.dev.json
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.dll
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.pdb
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.Views.dll
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.Views.pdb
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.csproj.AssemblyReference.cache
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.AssemblyInfoInputs.cache
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.AssemblyInfo.cs
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.csproj.CoreCompileInputs.cache
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorAssemblyInfo.cache
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorAssemblyInfo.cs
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\scopedcss\bundle\Volunteering.API.styles.css
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\staticwebassets\Volunteering.API.StaticWebAssets.Manifest.cache
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\staticwebassets\Volunteering.API.StaticWebAssets.Pack.cache
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\staticwebassets\msbuild.Volunteering.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Volunteering.API.props
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Volunteering.API.props
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Volunteering.API.props
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.TagHelpers.input.cache
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.TagHelpers.output.cache
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorCoreGenerate.cache
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorTargetAssemblyInfo.cache
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorTargetAssemblyInfo.cs
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.Views.pdb
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.dll
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\refint\Volunteering.API.dll
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.pdb
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.genruntimeconfig.cache
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\ref\Volunteering.API.dll
+C:\Users\Nuria\source\repos\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.csproj.CopyComplete
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\bin\Debug\net5.0\appsettings.json
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.exe
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.deps.json
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.runtimeconfig.json
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.runtimeconfig.dev.json
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.dll
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.Views.dll
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.Views.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.csproj.AssemblyReference.cache
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.AssemblyInfoInputs.cache
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.AssemblyInfo.cs
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.csproj.CoreCompileInputs.cache
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorAssemblyInfo.cache
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorAssemblyInfo.cs
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\scopedcss\bundle\Volunteering.API.styles.css
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\staticwebassets\Volunteering.API.StaticWebAssets.Manifest.cache
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.TagHelpers.input.cache
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.TagHelpers.output.cache
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorCoreGenerate.cache
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorTargetAssemblyInfo.cache
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorTargetAssemblyInfo.cs
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.Views.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.dll
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\refint\Volunteering.API.dll
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.genruntimeconfig.cache
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\ref\Volunteering.API.dll
+C:\Users\nuria.italiani\Downloads\Volunteering\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.csproj.CopyComplete
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\appsettings.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.Framework.deps.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.Framework.runtimeconfig.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.Framework.runtimeconfig.dev.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.Framework.exe
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.exe
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.deps.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.runtimeconfig.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.runtimeconfig.dev.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.Views.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.Views.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.Framework.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.Framework.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.csproj.AssemblyReference.cache
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.AssemblyInfoInputs.cache
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.AssemblyInfo.cs
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.csproj.CoreCompileInputs.cache
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorAssemblyInfo.cache
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorAssemblyInfo.cs
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\scopedcss\bundle\Volunteering.API.styles.css
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\staticwebassets\Volunteering.API.StaticWebAssets.Manifest.cache
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.TagHelpers.input.cache
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.TagHelpers.output.cache
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorCoreGenerate.cache
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorTargetAssemblyInfo.cache
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.RazorTargetAssemblyInfo.cs
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.Views.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.csproj.CopyComplete
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\refint\Volunteering.API.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.pdb
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.genruntimeconfig.cache
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\ref\Volunteering.API.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\appsettings.Local.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.API.xml
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\obj\Debug\net5.0\Volunteering.API.xml
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.Migrations.deps.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.Migrations.runtimeconfig.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.Migrations.runtimeconfig.dev.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.Migrations.exe
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\configuration.json
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.Migrations.dll
+C:\Users\nuria.italiani\Downloads\Volunteering (1)\Volunteering\Volunteering.API\bin\Debug\net5.0\Volunteering.Migrations.pdb
